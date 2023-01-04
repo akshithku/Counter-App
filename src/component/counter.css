@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+.container{
+    /* background-color: yellowgreen; */
+    margin-top: 13%;
+    width: 100vw;
+}
+.container h3{
+    color: rgb(130, 132, 134);
+    font-size: 20px;
+}
+.btns{
+    justify-content: space-around;
+}
+button{
+    margin: 1%;
+    background-color: red;
+    font-size: large;
+    cursor: pointer;
+}
